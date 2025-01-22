@@ -10,6 +10,7 @@ def acronym():
     time.sleep(0.5)
     print("System")
     time.sleep(0.5)
+    print("")
 
 def boot():
     acronym()
